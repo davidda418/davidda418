@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Eu sou David 👋 Graduando em Sistemas da Informação, com grande interesse por segurança digital e educação tecnológica.</h2>
+<h2 align="center">"Hello! Welcome to my GitHub profile."</h2>
 
 ###
 
